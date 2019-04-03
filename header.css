@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body img {
+	padding-top: 55px;
+	padding-bottom: 55px;
+	background-size: cover;
+	background-position: center center;
+	text-align: center;
+}
+.header.css {
+}

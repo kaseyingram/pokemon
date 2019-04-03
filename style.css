@@ -1,0 +1,98 @@
+@charset "UTF-8";
+.nav {
+	text-shadow: 0px 0px #000000;
+	background-color: #000000;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+ul {
+	text-align: center;
+}
+li {
+	text-align: center;
+	list-style-type: none;
+	display: inline;
+	padding-left: 30px;
+	padding-right: 30px;
+	color: #FFFFFF;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.content {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 23px;
+	padding-left: 35px;
+	float: none;
+	clear: none;
+	padding-top: 47px;
+	padding-bottom: 252px;
+	background-image: url(pikachu-champ.jpg);
+	background-repeat: no-repeat;
+	text-align: left;
+	background-clip: border-box;
+	background-size: auto 86%;
+	background-position: 86% 38%;
+}
+.column1 {
+	background-image: url(video-games.jpg);
+	width: 33.3%;
+	float: left;
+	padding-top: 274px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-right: 0px;
+	padding-bottom: 42px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 21px;
+	text-align: left;
+}
+.column2 {
+	background-image: url(tcg.jpg);
+	width: 33.3%;
+	float: left;
+	padding-top: 274px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 43px;
+	font-size: 21px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.column3 {
+	background-image: url(pokken.jpg);
+	width: 33.3%;
+	float: left;
+	padding-top: 274px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 43px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size: 21px;
+	padding-left: 1px;
+}
+.footer {
+	padding-top: 211px;
+	padding-bottom: 8px;
+	text-align: center;
+	background-color: #000000;
+	background-position: center center;
+	clear: left;
+	color: #FFFFFF;
+	background-image: url(footer-logo.png);
+	background-repeat: no-repeat;
+}
+.header {
+	background-image: url(header-bg.jpg);
+	background-position: center center;
+	background-size: cover;
+	padding-left: 0px;
+	padding-top: 55px;
+	padding-bottom: 55px;
+	text-align: center;
+}
+.SIGN {
+	background-color: #F40408;
+	color: #FFFFFF;
+	padding-top: 11px;
+	padding-bottom: 11px;
+	padding-left: 42px;
+	width: 207px;
+}
